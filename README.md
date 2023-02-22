@@ -14,7 +14,7 @@ You will create 2 buttons:
 **Follow these instructions to create the buttons:**
 
 1. Make sure your bookmarks bar is shown. This is where the buttons will go.
-2. Navigate to the `scrollToTop.js` file on this page. You may have to select 'View Code' to see it. 2. Open the file. Copy the entire file.
+2. Navigate to the `scrollToTop.js` file on this page. You may have to select 'View Code' to see it. 2. Open the file in a new window. Copy the entire file.
 3. Create a bookmark. It can be of any page
    1. In the bookmark's **_Name_** field, enter 'RedditScroll'
    2. In the bookmark's **_URL_** field, paste the contents of the file you copied.
