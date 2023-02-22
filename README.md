@@ -4,7 +4,7 @@ Method to make it easier to save long reddit chat threads on desktop
 
 ## How To Use
 
-This assumes you are already navigated to [Reddit Chat](www.reddit.com/chat) and logged in
+This assumes you are already navigated to [Reddit Chat](https://www.reddit.com/chat) and logged in
 
 You will create 2 buttons:
 
