@@ -14,12 +14,12 @@ You will create 2 buttons:
 **Follow these instructions to create the buttons:**
 
 1. Make sure your bookmarks bar is shown. This is where the buttons will go.
-2. Navigate to the `scrollToTop.js` file on this page. You may have to select 'View Code' to see it. 2. Open the file in a new window. Copy the entire file.
+2. Navigate to the [`scrollToTop.js`](https://github.com/brentonjackson/reddit-chat-saver/blob/master/scrollToTop.js) file. Copy the entire file contents.
 3. Create a bookmark. It can be of any page
    1. In the bookmark's **_Name_** field, enter 'RedditScroll'
    2. In the bookmark's **_URL_** field, paste the contents of the file you copied.
    3. Hit save to create the bookmark. This button will scroll to the top of your chat thread.
 
-\*Repeat the same process with the `saveMessageThread.js` file.
+\*Repeat the same process with the [`saveMessageThread.js`](https://github.com/brentonjackson/reddit-chat-saver/blob/master/saveMessageThread.js) file.
 
 The saveMessages button creates a new link everytime you click it. So if you go to another chat thread, you will have to click the button again!
